@@ -1,0 +1,11 @@
+item {
+    name: "smoke",
+    id: 1,
+    display_name: "smoke"
+}
+
+item {
+    name: "fire",
+    id: 2,
+    display_name: "fire"
+}
